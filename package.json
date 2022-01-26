@@ -21,7 +21,9 @@
   "homepage": "https://github.com/Matulegui201297/rest-api#readme",
   "dependencies": {
     "dotenv": "^14.3.2",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "winston": "^3.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
